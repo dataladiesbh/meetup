@@ -3,7 +3,7 @@
 ## Meetups (Ordem Decrescente)
 **1º Meetup do Data Ladies** - *23 de Março de 2019, 09:00 hs.*
       - Apresentado por [Giovanna Neves Damasceno](https://www.linkedin.com/in/giovanna-neves-damasceno-82a664a7/).
-          * [Machine Learning, onde eu uso isso?](https://github.com/rladies/meetup-presentations_belohorizonte/blob/master/09062018_PrimeiroMeetup/FirstMeetup-BH.pdf)
+                * [Machine Learning, onde eu uso isso?](https://github.com/dataladiesbh/meetup/blob/master/09062018_PrimeiroMeetup/FirstMeetup-BH.pdf)
       - Apresentado por [Josélia Pires](https://www.linkedin.com/in/jos%C3%A9lia-pires-965103170/).
           * [Python e OpenCV de maneira descontraída e com aplicações avançadas](https://github.com/rladies/meetup-presentations_belohorizonte/blob/master/09062018_PrimeiroMeetup/PollyannaGoncalves_Conhecendo-o-R.pdf)
       - Apresentado por [Iana Martins](https://www.linkedin.com/in/iana-martins-da-costa-corr%C3%AAa-e-souza-965946120/).
